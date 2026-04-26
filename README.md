@@ -23,7 +23,7 @@ Air Canvas is an interactive computer vision application that enables users to d
 ### Screenshots
 
 ![Air Canvas Hand Tracking](https://drive.google.com/file/d/1GGRnqN0xdqscGOYX5euSCRxRVjJlxCLU/view?usp=sharing)
-
+![Air Canvas Virtual Ex](image.png)
 ![Air Canvas Drawing](https://drive.google.com/file/d/1k-MjA7xQSYqZsD4KlH5Gta5wkGYB6bEt/view?usp=sharing)
 
 ## Key Features
