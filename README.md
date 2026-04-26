@@ -22,16 +22,9 @@ Air Canvas is an interactive computer vision application that enables users to d
 
 ### Screenshots
 
-![Air Canvas Hand Tracking](assets/SS-1.png)
+![Air Canvas Hand Tracking](https://drive.google.com/file/d/1GGRnqN0xdqscGOYX5euSCRxRVjJlxCLU/view?usp=sharing)
 
-![Air Canvas Drawing](assets/SS-2.png)
-
-![Air Canvas Color Picker](assets/SS-3.png)
-
-![Air Canvas Example](assets/air_canvas_1747660542.png)
-
-### Video Demo
-[Watch the Air Canvas in action](https://youtube.com/watch?v=your-video-id)
+![Air Canvas Drawing](https://drive.google.com/file/d/1k-MjA7xQSYqZsD4KlH5Gta5wkGYB6bEt/view?usp=sharing)
 
 ## Key Features
 
@@ -172,4 +165,9 @@ This project is released under the MIT License.
 
 - The [MediaPipe](https://mediapipe.dev/) team for their exceptional hand tracking library
 - [OpenCV](https://opencv.org/) community for their powerful computer vision tools
-- Contributors to this project for their valuable input and feedback 
+- Contributors to this project for their valuable input and feedback
+
+## Contact
+
+- **Email**: saikowshiksuggala9390@gmail.com
+- **Portfolio**: [kowshiksuggala.vercel.app](https://kowshiksuggala.vercel.app)
