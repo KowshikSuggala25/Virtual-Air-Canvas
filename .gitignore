@@ -34,7 +34,7 @@ env/
 *~
 
 # Generated files
-*.png
+
 *.jpg
 *.jpeg
 air_canvas_*.png
